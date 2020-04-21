@@ -1,0 +1,7 @@
+.myVE/
+__pycache__/
+.vscode/
+*.pyc
+*.pyo
+*.swp
+desktop.ini
